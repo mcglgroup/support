@@ -26,3 +26,5 @@ paginate: 5
 # Plugins
 plugins_dir:
   - jekyll-admin
+
+remote_theme: gustavoquinalha/jekyll-help-center-theme
